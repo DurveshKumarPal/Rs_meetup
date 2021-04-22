@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351167165486",
+    "project_id": "rs-meet-up",
+    "storage_bucket": "rs-meet-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351167165486:android:80e51e6bf142ec88f35bbf",
+        "android_client_info": {
+          "package_name": "com.example.Rsmeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351167165486-a4j5p6rb3316kk9a1321jqbjk5pt0125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48Qj4ft4EBEaBCePLs6haP5ExCm8GrHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351167165486-a4j5p6rb3316kk9a1321jqbjk5pt0125.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

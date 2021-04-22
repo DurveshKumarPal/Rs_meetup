@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RS_MEET UP</string>
+    <string name="email">Email</string>
+    <string name="name">NAME</string>
+    <string name="password">password</string>
+    <string name="email_adress">Email Adress</string>
+</resources>
